@@ -1,0 +1,18 @@
+#menu {
+    background-color: #0cb650;
+    position: fixed;
+    z-index: 1;
+    width: 100%;
+}
+#carouselExampleSlidesOnly img {
+    margin-top: 4%;
+    z-index: 2;
+}
+.btn {
+    border:none !important;
+    background-color: #24C966;
+}
+#title {
+    font-family: nickainley;
+    font-size: 30px;
+}
